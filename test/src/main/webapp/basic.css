@@ -1,0 +1,34 @@
+@charset "UTF-8";
+
+	#header{
+	padding-top:1px;
+	color:white;
+	background:#0000ff;
+	text-align:center;
+	height:70px
+	}
+	#index{
+	padding-top:10px;
+	padding-left:30px;
+	height:30px;
+	color:white;
+	background:#F3CA5A;
+	}
+	#title{
+	text-align:center;
+	}
+	#content{
+	height:350px;
+	background:#E8DAB3;
+	}
+	footer{
+	padding-top:25px;
+	height:35px;
+	text-align:center;
+	color:white;
+	background:#800040;}
+	
+	A:link {color: #FFFFFF; text-decoration: none;}
+	A:visited {color: #FFFFFF; text-decoration: none;}
+	A:active{color: #FFFFFF; text-decoration: none;}
+	A:hover {color: #000000; text-decoration: underline;}
